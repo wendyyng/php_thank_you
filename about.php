@@ -4,7 +4,7 @@
     <h2>About Us</h2>
 
     <p class="text-center">
-        The #ThankYouFrontLineWorkers campaign is a way for us to express our
+        The #ThankYouFrontlineWorkers campaign is a way for us to express our
         gratitude for all that our COVID-19 frontline workers have done for us.
         We afford businesses, organizations, families, and individuals the opportunity to express their gratitude to COVID-19 essential workers including:
     </p>
