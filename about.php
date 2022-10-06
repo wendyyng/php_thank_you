@@ -1,11 +1,12 @@
 <?php include 'inc/header.php'; ?>
-<div class="container w-75 flex-column d-flex justify-content-center align-items-center">
+<div class="card container m-4 p-4 w-50 flex-column d-flex justify-content-center align-items-center">
+
     <h2>About Us</h2>
 
     <p class="text-center">
         The #ThankYouFrontLineWorkers campaign is a way for us to express our
         gratitude for all that our COVID-19 frontline workers have done for us.
-        We afford businesses, organisations, families, and individuals the opportunity to express their gratitude to COVID-19 essential workers including:
+        We afford businesses, organizations, families, and individuals the opportunity to express their gratitude to COVID-19 essential workers including:
     </p>
     <ul>
         <li>Healthcare and support staff</li>
