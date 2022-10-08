@@ -6,11 +6,15 @@ A responsive website for the #ThankYouFrontlineWorkers campaign to collect thank
 ## Tech Stack
 
 - PHP
+- SQL
 - MySQL
 - HTML
 - CSS
 - Bootstrap
 - Bootswatch
+
+## Database
+Visitors can submit messages and personal details using the form and the submitted data are stored in the MySQL database. phpMyAdmin is used to develop and manage the database.
 
 ## Responsive Design and Styling
 Bootstrap and a Bootwatch theme were used for the responsiveness and styling of the website.
